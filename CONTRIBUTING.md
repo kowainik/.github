@@ -23,7 +23,7 @@ to tell about your intention to work on something under the corresponding
 issue, so everyone is aware that you are on it. If there is _no_ such issue — simply
 __create a new one__!
 
-> ☝ Pull request without corresponding issues would require much more effort to understand
+> ☝ Pull requests without corresponding issues would require much more effort to understand
 and review. It is always better to discuss the problem in the issue and make sure that nobody's
 time is going to be wasted on implementing/reviewing irrelevant or unsuitable for the project parts.
 
