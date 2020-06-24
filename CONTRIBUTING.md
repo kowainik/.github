@@ -11,7 +11,7 @@ taking to make our projects awesome! :sparkles:
 
 If you discover a bug or have any proposals on how to make this project better
 don't hesitate to [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)
-in a free format. 
+in a free format.
 
 > 📝 Please, include all relevant details and provide as much information as possible on the issue.
 That would help us to speed up the resolving process.
