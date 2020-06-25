@@ -1,0 +1,8 @@
+{
+    "name": "Haskell CI",
+    "description": "Kowainik Haskell Cross-Platform CI",
+    "iconName": "haskell",
+    "categories": [
+        "Haskell"
+    ]
+}
