@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/workflow-templates"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "GA"
+      include: "scope"
+    labels:
+      - "GitHub Actions"
