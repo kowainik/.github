@@ -59,4 +59,4 @@ Thanks for spending your time on reading this contributing guide! :sparkling_hea
 [stylish]: .stylish-haskell.yaml
 [stylish-tool]: http://hackage.haskell.org/package/stylish-haskell
 [hlint]: http://hackage.haskell.org/package/hlint
-[style-guide]: https://github.com/kowainik/org/blob/master/style-guide.md#haskell-style-guide
+[style-guide]: https://github.com/kowainik/org/blob/main/style-guide.md#haskell-style-guide
