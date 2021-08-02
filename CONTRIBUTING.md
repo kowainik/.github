@@ -56,7 +56,7 @@ Now you are ready to [submit a pull request](https://help.github.com/en/github/c
 ----------
 Thanks for spending your time on reading this contributing guide! :sparkling_heart:
 
-[stylish]: .stylish-haskell.yaml
+[stylish]: https://github.com/kowainik/org/blob/main/.stylish-haskell.yaml
 [stylish-tool]: http://hackage.haskell.org/package/stylish-haskell
 [hlint]: http://hackage.haskell.org/package/hlint
 [style-guide]: https://github.com/kowainik/org/blob/main/style-guide.md#haskell-style-guide
